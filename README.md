@@ -1,16 +1,20 @@
-### Hi there 👋
+# Привет, Меня зовут Дмитрий.
 
-<!--
-**DmitrijIlin/DmitrijIlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Обо мне: 
 
-Here are some ideas to get you started:
+ Я начинающий Python работчик. Занимаюсь самообучением с начала 2022 года.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мой стек технологий
+
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/OOP-black?style=for-the-badge&logo=Python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/CSV-black?style=for-the-badge&logo=&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/Aiogram-black?style=for-the-badge&logo=&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=GIT&logoColor="/>
+<img src="https://img.shields.io/badge/GIThub-black?style=for-the-badge&logo=github&logoColor="/>
+
+## Мои инструменты
+<img src="https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=PyCharm&logoColor=green"/>
+<img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=Visual Studio Code&logoColor=blue"/>
